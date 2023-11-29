@@ -1,0 +1,40 @@
+body {
+	margin: 0px;
+}
+
+header {
+	padding-top: 1px;
+	background-color: #b9ba8f;
+	padding-bottom: 1px;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+p {
+	font-size: 30px;
+}
+
+footer {
+	background-color: #b9ba8f;
+	padding-top: 100px;
+	padding-bottom: 1px;
+}
+
+img {
+	width: 350px;
+	height: 350px;
+}
+
+main {
+	padding-top: 1px;
+	background-color: #d3d4c1;
+	padding-bottom: 1px;
+}
+a {
+	text-decoration: none;
+}
+#gallery {
+	list-style-type: none;
+}
