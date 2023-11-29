@@ -1,0 +1,110 @@
+/*body*/
+body {
+	margin: 0px;
+}
+
+
+/* main */
+
+main {
+	background: linear-gradient(#21242b, #595959);
+	padding-top: 1px;
+	padding-bottom: 200px;
+}
+
+#aboutus {
+	text-align: center;
+	font-family: cursive;
+	padding-top: 200px;
+}
+
+#services {
+	text-align: center;
+	font-family: cursive;
+	padding-top: 300px;
+}
+
+#d1 {
+	padding-top: 200px;
+}
+
+.t1 {
+	border-collapse: collapse;
+
+}
+
+th {
+	background-color: black;
+	color: white;
+}
+
+.a {
+	background-color: white;
+}
+
+.b {
+	color: red;
+}
+
+.b1 {
+	background-color: #91949e;
+}
+.t1 td:hover {
+	background-color: #636670;
+}
+
+.reviews {
+	border-radius: 30px;
+	background-color: white;
+
+}
+
+
+/* header*/
+header {
+	background-color: #4b4d57;
+	padding-top: 1px;
+	padding-bottom: 1px; 
+
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+	color: black
+}
+
+.t2 td {
+	text-align: center;
+	border-radius: 30px;
+    width: 180px
+
+}
+
+a {
+	text-decoration: none;
+}
+
+.t2 {
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+/* footer */
+
+footer {
+	background-color: #4b4d57;
+	padding-top: 2px;
+	padding-bottom: 1px;
+}
+footer p {
+	text-align: center;
+
+}
+
+
+
+
+
